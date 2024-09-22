@@ -1,5 +1,4 @@
-## Hi there 👋
-
+![Never Give Up](https://tenor.com/view/never-give-up-motivation-matsuoka-shuzo-japan-you-will-surely-accomplish-your-goal-gif-16195302)
 <!--
 **sabaochi/sabaochi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
